@@ -1,2 +1,2 @@
 # Platepal
-Project done on third year of my Bachelors.
+Platepal is a Nutritional recipe recommender system that recommends food based on user's health report as input.
